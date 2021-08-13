@@ -1,0 +1,19 @@
+.beerCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.beerCard img{
+    height: 150px;
+    width: 100px;
+}
+
+.beerCard .tagLine {
+    color: grey;
+    font-size: 1.5em;
+}
+
+ul {
+    list-style: none;
+}
